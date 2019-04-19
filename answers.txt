@@ -1,0 +1,20 @@
+1.  
+  origin/bower
+  origin/index
+  origin/landing
+  origin/landing-ru
+  origin/master
+  origin/package
+2. branch index
+3. 8
+4. 
+| | * cab8d80 (origin/package) Removed lock
+| | |
+| | |
+| | * 8bfb714 Added locked package
+| | * daa9e63 Added package
+| |/
+|/|
+* 
+
+
